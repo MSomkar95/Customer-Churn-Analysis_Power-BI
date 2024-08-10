@@ -1,3 +1,4 @@
 # CUSTOMER CHURN ANALYSIS
-## Aim 
-## 
+## 1. Aim 
+## 2. Approach and Analysis
+### 2.(i) 
