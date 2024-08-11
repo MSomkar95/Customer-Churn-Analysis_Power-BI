@@ -19,7 +19,7 @@ The imaginary telecom company faces a grim challenge of increased customer churn
 
 ## Tools used
 - MS Excel: for data cleaning
--Power BI: for data visualization
+- Power BI: for data visualization
 
 ## KPIs used
 - Total Churned customers
@@ -78,6 +78,10 @@ The imaginary telecom company faces a grim challenge of increased customer churn
 - In San Diego, High-value customers with 49% contribution to the total revenue contribution of the city of which the churned customers have an average tenure of around 5 years. In addition, 82% of churn is because of competitor activity, which means the competitor services are premium and we must upgrade our premium services.
 - Customers whose tenure is less than 6 months have a churn rate of a whopping 85%.
 - Internet-type services are preferred by those customers who spend 2.5 years or more with the company.
+  
+  <img width="356" alt="Payments chart" src="https://github.com/user-attachments/assets/f57bad34-2ab8-4443-bd3c-28bba225e0b6">
+
+- Credit card payment option has less churn rate, but less popular when compared to the bank withdrawal type.
 
 ### Q1
 ### Q2
