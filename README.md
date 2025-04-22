@@ -1,10 +1,10 @@
-# CUSTOMER CHURN ANALYSIS
+# CUSTOMER CHURN ANALYSIS (Telecom)
 
 ![File_Thumbnail_Churn](https://github.com/user-attachments/assets/6c4cf7b0-efd2-4909-923f-acc0eb4bfb06)
 
 
 ## Project Overview
-The imaginary telecom company faces a grim challenge of increased customer churn rate of approximately 27%, and I aim to utilize Power BI in visualizing the data, design the dashboard and draw the actionable insights by also providing business recommendations that the company could apply which could improve the customer retention.   
+Addressed ~27% telecom customer churn by developing an end-to-end Power BI dashboard. Employed Power Query for data prep & advanced DAX for KPIs and crucial revenue-based customer segmentation. Actionable insights on high-risk segments (e.g., San Diego) and data-driven retention recommendations.
 
 ## Table of Contents
 - [Dataset](#dataset)
